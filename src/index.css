@@ -11,3 +11,70 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background-color: black;
+  color: white;
+}
+
+nav{
+  /* background-color: aqua; */
+  display: flex;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+}
+/* span{
+  margin: 25px;
+  color: white;
+}
+span:hover{
+  color: red;
+} */
+.home{
+  height: 1000px; 
+   display: flex;
+  flex-direction: row;
+  text-align: justify ;
+  margin-right: 25px;
+  
+}
+.home div{
+  background-repeat: no-repeat;
+
+ 
+}
+.home img{
+  height: 15%;
+  width: 100px;
+  /* border-radius: 20%; */
+  transition: 2s;
+  padding-top: 100px;
+}
+.home img:hover{
+  height: 25%;
+  width: 150px;
+  /* border-radius: 50%; */
+}
+a{
+  text-decoration: none;
+  color: white;
+  margin: 40px;
+}
+a:hover{
+  color: red;
+}
+marquee{
+  color: red;
+}
+button{
+  border-radius: 50px;
+}
+.education span{
+  color: red;
+}
+.skills span{
+  color: red;
+}
+.contactdetails span{
+  color: red;
+}
