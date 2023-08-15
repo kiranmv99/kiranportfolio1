@@ -16,6 +16,9 @@ const Navbar = () => {
         <div>
         <Link to='/skills'>Skills</Link>
         </div>
+        <div>
+        <Link to='/certification'>Certification</Link>
+        </div>
 
 
 

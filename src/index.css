@@ -78,3 +78,9 @@ button{
 .contactdetails span{
   color: red;
 }
+
+.certification img{
+  width: 50%;
+  height: 50%;
+  margin-top: 5%;
+}
