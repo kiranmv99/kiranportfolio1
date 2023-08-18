@@ -36,7 +36,7 @@ span:hover{
   flex-direction: row;
   text-align: justify ;
   margin-right: 25px;
-  
+  margin-top: 100px;
 }
 .home div{
   background-repeat: no-repeat;
@@ -51,9 +51,9 @@ span:hover{
   padding-top: 100px;
 }
 .home img:hover{
-  height: 25%;
+  height: 40%;
   width: 150px;
-  /* border-radius: 50%; */
+ 
 }
 a{
   text-decoration: none;
@@ -83,4 +83,15 @@ button{
   width: 50%;
   height: 50%;
   margin-top: 5%;
+}
+.education{
+  padding-top: 100px;
+
+}
+.contactdetails{
+  padding-top: 100px;
+}
+.skills{
+  padding-top: 100px;
+
 }
